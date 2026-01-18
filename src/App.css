@@ -53,6 +53,16 @@ button:hover {
   opacity: 0.9;
 }
 
+@media (max-width: 400px) {
+  form {
+    flex-direction: column; /* stack vertically on very small devices */
+  }
+
+  button {
+    width: 100%; /* button fills the width */
+  }
+}
+
 /* Filter Buttons */
 .filters {
   display: flex;
