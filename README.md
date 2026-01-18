@@ -61,12 +61,12 @@ Each movie is stored as an object with the following structure:
 }
 ```
 
-## ▶️ How to Run the Project
+## How to Run the Project
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/LailaRahman/movie-watchlist
+   git clone https://github.com/LailaRahman/movie-watchlist-new
    ```
 
 2. Navigate into the project folder:
